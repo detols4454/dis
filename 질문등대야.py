@@ -1,5 +1,5 @@
 import discord
-token = 'Nzk3NzAyNjM1MzM5MjUxNzYy.X_qUeA.rN9wvtxDmKYgIwIzqPApv6RQ9w8'
+token = 'Nzk3NzAyNjM1MzM5MjUxNzYy.X_qUeA.8JfwRFktphraW0wo7IYZsAhnjbk'
 client = discord.Client()
 @client.event
 async def on_ready():
